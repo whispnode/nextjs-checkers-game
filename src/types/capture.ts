@@ -1,4 +1,4 @@
-import { Piece } from "@/models/piece";
+import { Piece } from "./piece";
 
 export type Capture = {
     start: number[];
